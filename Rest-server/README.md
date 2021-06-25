@@ -1,6 +1,6 @@
 # Project Name
 
-This is a Rest-server that si connnected with sqlite3. This was done by Juan Pablo Cabellos Aguilar.
+This is a Rest-server that is connnected with sqlite3. This was done by Juan Pablo Cabellos Aguilar.
 
 ## Installation
 In order to build the project, you will need to assemble the dependencies and then package the project into a jar:
